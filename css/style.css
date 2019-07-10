@@ -1,0 +1,12 @@
+/*------- Reset CSS Starts -------*/
+
+body { overflow: hidden; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/*------- Reset CSS Ends -------*/
+
+/*------- Mouse Move Particle Effect Section Starts -------*/
+
+.bg-particles { height: 100vh; }
+
+/*------- Mouse Move Particle Effect Section Ends -------*/
